@@ -4,7 +4,7 @@
 
 Attention, on suppose que vous ayez déjà un compte Mojang ou Microsoft pour *Minecraft Java Edition*. Si ce n'est pas le cas, il faut acheter une licence. Le prix, le modèle des licences et la modalité d'achat changent tout le temps.
 
-[https://www.minecraft.net/en-us/store/minecraft-java-edition](Pour acheter Minecraft Java Edition)
+[Pour acheter Minecraft Java Edition](https://www.minecraft.net/en-us/store/minecraft-java-edition)
 
 
 ## Installer le *minecraft launcher*
